@@ -7,7 +7,7 @@
 
 
 <div class="page-title-box d-sm-flex align-items-center justify-content-between">
-    <h4 class="mb-sm-0">Diabetic Clinic list</h4>
+    <h4 class="mb-sm-0">Lab</h4>
     
 </div>
 <div class="card card-default">
@@ -18,7 +18,7 @@
 
 
 <br/><br/>
-<livewire:internal-medicine-diabetic-ward/>
+
 </div>
 </div>
 </div>
